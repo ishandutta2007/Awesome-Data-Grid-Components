@@ -42,35 +42,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **ag-Grid Enterprise**  
-
-  **Commercial edition of ag-Grid** with advanced features not available in the community version: **Integrated Charting**, **Row Grouping and Aggregation**, **Pivoting**, **Master/Detail**, **Server-side Row Model**, **Excel Export**, **Clipboard Operations**, **Tree Data**, **Column Menu**, **Context Menu**, **Tool Panels**, and **dedicated engineering support** . **The enterprise standard** for complex, high-performance data grids in commercial applications.
-
-
-
-- **Kendo UI (Progress)**  
-
-  **Commercial HTML5 and jQuery-based widget library** with a comprehensive grid component . Features **FileManager**, **Spreadsheet**, **PivotGrid**, **TreeList**, **Filter**, **Pager**, **DateRangePicker**, **DropDownTree**, **Editor**, **Rating**, **Switch**, **Upload**, **Chat**, **Gantt**, **Scheduler**, and **PDFViewer** . **Note**: The open-source `kendo-ui-core` package has a **dependency issue**—it requires the commercial `@progress/kendo-drawing` package for some functionality, breaking CDN-based usage since version 2024.4.1112 .
-
-
-
-- **Syncfusion Essential JS 2**  
-
-  **Commercial React UI components library** with **70+ UI components** built from scratch to be lightweight, responsive, modular, and touch-friendly . Features **Data Grid**, **Pivot Table**, **Spreadsheet**, **Tree Grid**, **In-place Editor**, **Rich Text Editor**, **Word Processor**, **AutoComplete**, **ComboBox**, **Dropdown List**, **MultiSelect Dropdown**, **File Upload**, **Input Mask**, and more . **Community license available** for organizations with **less than $1 million USD in annual gross revenue and five or fewer developers** .
-
-
-
-- **DevExpress DevExtreme**  
-
-  **Enterprise-ready suite of UI components** for Angular, React, Vue, and jQuery . Features **responsive and accessible** data grids, interactive charts, data editors, and widgets . The **DataGrid** component supports **custom column sorting** via `column.sortingMethod`, **recursive selection** in TreeList, and **native Promise** support for cancellation callbacks .
-
-
-
-- **Infragistics Ignite UI**  
-
-  **Commercial React UI library** with **high-performance data grid** and **65+ high-performance charts** . Features **fast rendering**, **unbeatable interactions**, **flawless scrolling through unlimited rows and columns**, **Spreadsheet component** for Excel-like editing, **Financial/Stock charts**, **Sparkline**, **Geographic Map**, **Excel Library**, and **Zoom Slider** . **The enterprise choice** for financial and high-volume data applications.
+| Product | Company Valuation / Revenue | Pricing | Free Tier / Trial Limit | Key Features |
+| :--- | :--- | :--- | :--- | :--- |
+| **Kendo UI (Progress)** | **$1.60B - $1.65B Market Cap** (~$1.00B Annual Revenue) | **$999 / developer / year** (Kendo UI commercial tier with support) | **30-day free trial**; full access to all components, frameworks, and technical support | Comprehensive HTML5/jQuery, Angular, React, and Vue widgets; Spreadsheet, PivotGrid, TreeList, Filter, Pager, and PDFViewer. |
+| **Infragistics Ignite UI** | **~$100M+ Annual Revenue** (est. $50M - $100M+) | **$1,399 / developer / year** (Ignite UI 1-year subscription) | **30-day free trial**; full feature evaluation across all supported frameworks, includes runtime evaluation watermark | High-performance enterprise data grid with 65+ charts, virtualized scrolling across unlimited rows/columns, and Excel-like spreadsheet component. |
+| **Syncfusion Essential JS 2** | **~$70M - $90M Annual Revenue** (est. private) | **$5,995 / year** (team package up to 5 developers; ~$1,199/dev/yr) | **Free Forever via Community License** for organizations with < $1M gross revenue, ≤ 5 developers, and ≤ 10 employees; or **30-day free trial** with full access | Over 70 modular UI components (Data Grid, Pivot Table, Spreadsheet, Tree Grid) with lightweight rendering and full touch support. |
+| **DevExpress DevExtreme** | **~$45M - $50M Annual Revenue** (est. private) | **$899.99 / developer** (DevExtreme Complete 12-month subscription) | **30-day free trial**; full component evaluation, restricted from production deployment until licensed | Enterprise-ready components for Angular, React, Vue, and jQuery; DataGrid with custom sorting, TreeList recursive selection, and native Promise callbacks. |
+| **ag-Grid Enterprise** | **~$20M - $30M (£16M - £25M) Annual Revenue** | **$999 / developer** (Perpetual license with 1 year support & updates) | **30-day free trial**; full enterprise capabilities, no functional restrictions, no watermarks | The industry standard for complex data grids; Integrated Charting, Row Grouping & Aggregation, Pivoting, Master/Detail, Server-side Row Model, and Excel Export. |
 
 
 
