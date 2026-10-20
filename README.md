@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Data-Grid-Components/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Grid-Components?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Data-Grid-Components/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Grid-Components?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Grid-Components/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Data-Grid-Components?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Grid-Components/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Data-Grid-Components" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Grid-Components/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Data-Grid-Components" alt="License" /></a>
@@ -71,51 +71,51 @@ The following commercial and hosted data grid vendor solutions are ranked in **d
 
 ## 🚀 Open-Source GitHub Projects
 
-The leading open-source data grid libraries and data table engines, sorted in **descending order by GitHub star count**:
+The leading open-source data grid libraries and data table engines, sorted in **descending order by GitHub Stars_Count**:
 
-- **[TanStack Table](https://github.com/TanStack/table)** [![GitHub stars](https://img.shields.io/github/stars/TanStack/table?style=social&color=white)](https://github.com/TanStack/table/stargazers)  
+- **[TanStack Table](https://github.com/TanStack/table)** [![GitHub_Stars](https://img.shields.io/github/stars/TanStack/table?style=social&color=white)](https://github.com/TanStack/table/stargazers)  
   *Headless UI for building powerful tables & datagrids* (MIT) — **The modern headless standard** for React, Solid, Vue, Svelte, and Vanilla JS. Provides 100% control over markup and styling while giving you sorting, filtering, grouping, pagination, column ordering, pinning, virtual scrolling, and row selection out of the box.
 
-- **[Handsontable](https://github.com/handsontable/handsontable)** [![GitHub stars](https://img.shields.io/github/stars/handsontable/handsontable?style=social&color=white)](https://github.com/handsontable/handsontable/stargazers)  
+- **[Handsontable](https://github.com/handsontable/handsontable)** [![GitHub_Stars](https://img.shields.io/github/stars/handsontable/handsontable?style=social&color=white)](https://github.com/handsontable/handsontable/stargazers)  
   *JavaScript Data Grid with spreadsheet-like editing* (Free for non-commercial/evaluation) — **The spreadsheet-native choice**. Features 400+ built-in calculation formulas, Excel file export/import, data validation, conditional formatting, merged cells, frozen rows/columns, context menus, and custom themes (Main, Horizon, Classic).
 
-- **[ag-Grid Community](https://github.com/ag-grid/ag-grid)** [![GitHub stars](https://img.shields.io/github/stars/ag-grid/ag-grid?style=social&color=white)](https://github.com/ag-grid/ag-grid/stargazers)  
+- **[ag-Grid Community](https://github.com/ag-grid/ag-grid)** [![GitHub_Stars](https://img.shields.io/github/stars/ag-grid/ag-grid?style=social&color=white)](https://github.com/ag-grid/ag-grid/stargazers)  
   *The best JavaScript Data Table for building Enterprise Applications* (MIT for Community) — **The most widely adopted enterprise data grid** across React, Angular, Vue, and Vanilla JS with zero third-party dependencies. Community edition includes virtual scrolling, multi-column sorting, column filtering, pagination, in-place cell editing, theming, CSV export, and accessible keyboard navigation.
 
-- **[Perspective](https://github.com/finos/perspective)** [![GitHub stars](https://img.shields.io/github/stars/finos/perspective?style=social&color=white)](https://github.com/finos/perspective/stargazers)  
+- **[Perspective](https://github.com/finos/perspective)** [![GitHub_Stars](https://img.shields.io/github/stars/finos/perspective?style=social&color=white)](https://github.com/finos/perspective/stargazers)  
   *Streaming data analytics and high-performance WebAssembly data grid* (Apache-2.0) — Developed under FINOS (Fintech Open Source). Built in C++ and compiled to WebAssembly for processing and hyper-fast streaming updates of millions of rows in browsers with interactive pivot grids and charting.
 
-- **[Tabulator](https://github.com/olifolkerd/tabulator)** [![GitHub stars](https://img.shields.io/github/stars/olifolkerd/tabulator?style=social&color=white)](https://github.com/olifolkerd/tabulator/stargazers)  
+- **[Tabulator](https://github.com/olifolkerd/tabulator)** [![GitHub_Stars](https://img.shields.io/github/stars/olifolkerd/tabulator?style=social&color=white)](https://github.com/olifolkerd/tabulator/stargazers)  
   *Interactive JavaScript tables with a simple, developer-friendly API* (MIT) — **Feature-rich pure open-source choice**. Offers comprehensive cell editors, mutators, formatters, keyboard jump navigation, responsive layouts, data import/export (JSON, CSV, XLSX, PDF), tree structures, and range selection.
 
-- **[React Data Grid](https://github.com/adazzle/react-data-grid)** [![GitHub stars](https://img.shields.io/github/stars/adazzle/react-data-grid?style=social&color=white)](https://github.com/adazzle/react-data-grid/stargazers)  
+- **[React Data Grid](https://github.com/adazzle/react-data-grid)** [![GitHub_Stars](https://img.shields.io/github/stars/adazzle/react-data-grid?style=social&color=white)](https://github.com/adazzle/react-data-grid/stargazers)  
   *Feature-rich and blazing fast React data grid component* (MIT) — Excel-like grid tailored specifically for React applications with virtualized column and row rendering, copy-paste cell selections, inline cell editing, column resizing, and custom cell formatters.
 
-- **[MUI X Data Grid](https://github.com/mui/mui-x)** [![GitHub stars](https://img.shields.io/github/stars/mui/mui-x?style=social&color=white)](https://github.com/mui/mui-x/stargazers)  
+- **[MUI X Data Grid](https://github.com/mui/mui-x)** [![GitHub_Stars](https://img.shields.io/github/stars/mui/mui-x?style=social&color=white)](https://github.com/mui/mui-x/stargazers)  
   *High-performance data grid component for Material UI applications* (MIT for Community) — Seamlessly integrates with the Material UI ecosystem, featuring fast DOM virtualization, custom column menus, density switching, export tools, pagination, and accessible keyboard shortcuts.
 
-- **[Glide Data Grid](https://github.com/glideapps/glide-data-grid)** [![GitHub stars](https://img.shields.io/github/stars/glideapps/glide-data-grid?style=social&color=white)](https://github.com/glideapps/glide-data-grid/stargazers)  
+- **[Glide Data Grid](https://github.com/glideapps/glide-data-grid)** [![GitHub_Stars](https://img.shields.io/github/stars/glideapps/glide-data-grid?style=social&color=white)](https://github.com/glideapps/glide-data-grid/stargazers)  
   *Canvas-based data grid supporting millions of rows, rapid updating, and native scrolling* (MIT) — **The extreme-performance choice**. Renders entirely on HTML5 Canvas using Clowncar Scrolling to effortlessly handle well over 100 million rows without DOM lag. Built with custom cell types, sparklines, and drilldown support.
 
-- **[Grid.js](https://github.com/grid-js/gridjs)** [![GitHub stars](https://img.shields.io/github/stars/grid-js/gridjs?style=social&color=white)](https://github.com/grid-js/gridjs/stargazers)  
+- **[Grid.js](https://github.com/grid-js/gridjs)** [![GitHub_Stars](https://img.shields.io/github/stars/grid-js/gridjs?style=social&color=white)](https://github.com/grid-js/gridjs/stargazers)  
   *Lightweight, advanced JavaScript table plugin* (MIT) — Clean, zero-dependency data table library compatible with React, Vue, Angular, and Vanilla JavaScript. Features async data loading, search filtering, sorting, pagination, and multi-framework bindings in a tiny footprint.
 
-- **[RevoGrid](https://github.com/revolist/revogrid)** [![GitHub stars](https://img.shields.io/github/stars/revolist/revogrid?style=social&color=white)](https://github.com/revolist/revogrid/stargazers)  
+- **[RevoGrid](https://github.com/revolist/revogrid)** [![GitHub_Stars](https://img.shields.io/github/stars/revolist/revogrid?style=social&color=white)](https://github.com/revolist/revogrid/stargazers)  
   *Powerful virtual data grid with smooth scrolling for millions of items* (MIT) — Web Component based grid with virtual scroll architecture, drag & drop column reordering, spreadsheet editing, and native wrappers for Vue, React, Angular, and Svelte.
 
-- **[Kendo UI Core](https://github.com/telerik/kendo-ui-core)** [![GitHub stars](https://img.shields.io/github/stars/telerik/kendo-ui-core?style=social&color=white)](https://github.com/telerik/kendo-ui-core/stargazers)  
+- **[Kendo UI Core](https://github.com/telerik/kendo-ui-core)** [![GitHub_Stars](https://img.shields.io/github/stars/telerik/kendo-ui-core?style=social&color=white)](https://github.com/telerik/kendo-ui-core/stargazers)  
   *Open-source HTML5 & jQuery widget library* (Apache-2.0) — Provides core widgets including basic grid, ListView, Pager, and form controls for existing Kendo-based architectures.
 
-- **[Toast UI Grid](https://github.com/nhn/tui.grid)** [![GitHub stars](https://img.shields.io/github/stars/nhn/tui.grid?style=social&color=white)](https://github.com/nhn/tui.grid/stargazers)  
+- **[Toast UI Grid](https://github.com/nhn/tui.grid)** [![GitHub_Stars](https://img.shields.io/github/stars/nhn/tui.grid?style=social&color=white)](https://github.com/nhn/tui.grid/stargazers)  
   *The powerful component to display and edit data* (MIT) — Developed by NHN Cloud featuring multi-column headers, custom renderers, summary calculations, and keyboard navigation. *(Note: Repository archived September 2026; retained for legacy reference).*
 
-- **[Cheetah Grid](https://github.com/future-architect/cheetah-grid)** [![GitHub stars](https://img.shields.io/github/stars/future-architect/cheetah-grid?style=social&color=white)](https://github.com/future-architect/cheetah-grid/stargazers)  
+- **[Cheetah Grid](https://github.com/future-architect/cheetah-grid)** [![GitHub_Stars](https://img.shields.io/github/stars/future-architect/cheetah-grid?style=social&color=white)](https://github.com/future-architect/cheetah-grid/stargazers)  
   *The fastest open-source data table for web apps* (MIT) — High-speed canvas-driven web data grid engine optimized for handling 1,000,000+ records with smooth scrolling and reactive event bindings.
 
-- **[SVAR Data Grid](https://github.com/svar-widgets/react-grid)** [![GitHub stars](https://img.shields.io/github/stars/svar-widgets/react-grid?style=social&color=white)](https://github.com/svar-widgets/react-grid/stargazers)  
+- **[SVAR Data Grid](https://github.com/svar-widgets/react-grid)** [![GitHub_Stars](https://img.shields.io/github/stars/svar-widgets/react-grid?style=social&color=white)](https://github.com/svar-widgets/react-grid/stargazers)  
   *Fast and flexible React data grid widget* (MIT) — Lightweight React-native table component with built-in sorting, filtering, editing, and custom styling presets.
 
-- **[DHTMLX Suite GPL](https://github.com/DHTMLX/dhtmlx-suite-gpl)** [![GitHub stars](https://img.shields.io/github/stars/DHTMLX/dhtmlx-suite-gpl?style=social&color=white)](https://github.com/DHTMLX/dhtmlx-suite-gpl/stargazers)  
+- **[DHTMLX Suite GPL](https://github.com/DHTMLX/dhtmlx-suite-gpl)** [![GitHub_Stars](https://img.shields.io/github/stars/DHTMLX/dhtmlx-suite-gpl?style=social&color=white)](https://github.com/DHTMLX/dhtmlx-suite-gpl/stargazers)  
   *JavaScript UI widget library with Data Grid support* (GPLv2) — Enterprise component suite offering table configuration, header customization, and integration modules.
 
 ---
@@ -145,7 +145,7 @@ Contributions are warmly welcome! Help keep this ecosystem guide accurate and up
 1. 🍴 Fork the repository.
 2. 🌿 Create a new branch (`git checkout -b feature/add-new-grid`).
 3. 📝 Add or update entries in `README.md` following the existing format.
-4. 🔍 Ensure pricing, licensing, and star counts are verified from official sources.
+4. 🔍 Ensure pricing, licensing, and Stars_Counts are verified from official sources.
 5. 🚀 Submit a Pull Request with a clear description of your changes.
 
 ---
