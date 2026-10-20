@@ -71,7 +71,7 @@ The following commercial and hosted data grid vendor solutions are ranked in **d
 
 ## 🚀 Open-Source GitHub Projects
 
-The leading open-source data grid libraries and data table engines, sorted in **descending order by GitHub Stars_Count**:
+The leading open-source data grid libraries and data table engines, sorted in **descending order by GitHub_Stars_Count**:
 
 - **[TanStack Table](https://github.com/TanStack/table)** [![GitHub_Stars](https://img.shields.io/github/stars/TanStack/table?style=social&color=white)](https://github.com/TanStack/table/stargazers)  
   *Headless UI for building powerful tables & datagrids* (MIT) — **The modern headless standard** for React, Solid, Vue, Svelte, and Vanilla JS. Provides 100% control over markup and styling while giving you sorting, filtering, grouping, pagination, column ordering, pinning, virtual scrolling, and row selection out of the box.
